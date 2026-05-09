@@ -1,0 +1,14 @@
+@import url('bootstrap');
+@import url('bootstrap-icons');
+
+
+
+body {
+  font-family: 'Outfit Variable', sans-serif;
+}
+
+h1,
+h2,
+h2 {
+  font-family: 'Bebas Neue', sans-serif;
+}
